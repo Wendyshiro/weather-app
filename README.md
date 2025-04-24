@@ -27,8 +27,8 @@ API: OpenWeatherMap
 
 Version Control: Git, GitHub
 Screenshots
+Weather App Demo (![frontend weather app](https://github.com/user-attachments/assets/1982f15e-9af2-47c1-9c79-038fac8a6301)
 
-Add screenshots or a GIF here to showcase the interface. You can use tools like Lightshot or VS Code's Live Server screenshots.
 
 How to Run Locally
 
