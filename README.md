@@ -29,7 +29,7 @@ Version Control: Git, GitHub
 Screenshots
 Weather App Demo (## Demo
 
-![Weather App Demo](./assets/screenrecord.mp4)
+![Weather App Demo](asset/screenrecord.mp4)
 )
 
 
