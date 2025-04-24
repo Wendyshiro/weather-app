@@ -27,7 +27,10 @@ API: OpenWeatherMap
 
 Version Control: Git, GitHub
 Screenshots
-Weather App Demo (C:\Users\Celine\Pictures\screenrecord.mp4)
+Weather App Demo (## Demo
+
+![Weather App Demo](./assets/screenrecord.mp4)
+)
 
 
 How to Run Locally
